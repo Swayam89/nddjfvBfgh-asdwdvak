@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+}
+.header{
+    background-color: aqua;
+    display: flex; /* or inline-flex */
+    justify-content: space-between
+}
+.header2{
+    background-color: aqua;
+    display: flex; /* or inline-flex */
+    justify-content: space-between
+}
+body{
+    background-color: aqua;
+}
+code.org{
+    background-color: aqua;
+    justify-content: space-between
+}
+
